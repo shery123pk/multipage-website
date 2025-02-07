@@ -36,7 +36,7 @@ const Footer = () => {
                 <li className='mb-2 text-[25px] text-orange-500'><Link href="#" target='_blank'><FaInstagram /></Link></li>
                 
             </ul>
-            <Link className='flex text-[16px] gap-2 text-blue-600 underline' href="#" target='_blank'><CiMail  className='mb-2 text-[25px] text-blue-700'/>asif.alimusharaf@gmail.com</Link>
+            <Link className='flex text-[16px] gap-2 text-blue-600 underline' href="#" target='_blank'><CiMail  className='mb-2 text-[25px] text-blue-700'/>abc@gmail.com</Link>
 
             
         </div>
